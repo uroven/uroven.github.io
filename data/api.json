@@ -6,7 +6,7 @@
         },
         {
             "name": "loadingText",
-            "text": "Нажимая на объект, вы улетаете на ресурс партнёра (естественно, они разбросаны по тематике объектов), по промокоду << UVN >>, получаете приятную скидку!"
+            "text": "Нажимая на объект, вы улетаете на ресурс партнёра (естественно, они разбросаны по тематике объектов), по промокоду *UVN*, получаете приятную скидку!"
         },
         {
             "name": "loadingSubtext",
@@ -31,7 +31,7 @@
             "name": "youtubeVideo",
             "title": "youtube video title",
             "description": "youtube video description",
-            "link": "https://www.youtube-nocookie.com/embed/es5hCtV4FZ8?si=vJ0ElB2HhehpFIDc&amp;controls=0",
+            "link": "https://www.youtube.com/watch?v=Zgg7BgaFG1s",
             "preview": "https://i.imgur.com/6VPyV7l.jpg"
         },
         {
