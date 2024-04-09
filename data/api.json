@@ -63,6 +63,13 @@
             "preview": "https://i.imgur.com/6VPyV7l.jpg"
         },
         {
+            "name": "therdPhoto",
+            "link": "https://i.imgur.com/yxNI7m0.jpg",
+            "title": "second photo title",
+            "description": "second photo description",
+            "preview": "https://i.imgur.com/6VPyV7l.jpg"
+        },
+        {
             "name": "photoGroup",
             "links": [
                 "https://i.imgur.com/yxNI7m0.jpg",
