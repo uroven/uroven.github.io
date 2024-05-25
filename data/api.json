@@ -1,8 +1,8 @@
-{"sources":
-    [
+{
+    "sources": [
         {
-           "name": "loadingTitle",
-           "text": "Дисклеймер:"
+            "name": "loadingTitle",
+            "text": "Дисклеймер:"
         },
         {
             "name": "loadingText",
@@ -27,7 +27,7 @@
                 "Работаем исключительно с Топ сегментом (под ключ), всё индивидуально. Имеем отношение к Cactus Jack Records."
             ]
         },
-         {
+        {
             "name": "AboutAuthors",
             "content": [
                 "Вокруг одни пидорасы, я ебал меня ебали",
@@ -47,10 +47,11 @@
                 "Даня великий магистр typescript для обращения по работе пишите в telegram @pkhotun",
                 "Даня великий магистр typescript для обращения по работе пишите в telegram @pkhotun",
                 "Даня великий магистр typescript для обращения по работе пишите в telegram @pkhotun",
-                "Даня великий магистр typescript для обращения по работе пишите в telegram @pkhotun",
                 "Вокруг одни пидорасы, я ебал меня ебали"
             ]
-        },
+        }
+    ],
+    "portfolioItems": [
         {
             "name": "youtubeVideo",
             "title": "youtube video title",
