@@ -51,6 +51,10 @@
             ]
         }
     ],
+    "socialLinks": {
+        "instagram": "https://www.instagram.com/uroven.co",
+        "telegram": "https://www.t.me/dinahoi"
+    },
     "portfolioItems": [
         {
             "name": "youtubeVideo",
