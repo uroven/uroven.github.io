@@ -55,10 +55,10 @@
         "instagram": "https://www.instagram.com/uroven.co",
         "telegram": "https://www.t.me/dinahoi"
     },
-    "musicTracks": {
-        "https://github.com/uroven/uroven.github.io/blob/main/data/Big%20Baby%20Tape%20-%20Dying%202%20Live.mp3",
-        "https://github.com/uroven/uroven.github.io/blob/main/data/bushido-zho-daleko-mp3.mp3"
-   }
+     "musicTracks": [
+        "https://github.com/uroven/uroven.github.io/blob/main/data/Big%20Baby%20Tape%20-%20Dying%202%20Live.mp3?raw=true",
+        "https://github.com/uroven/uroven.github.io/blob/main/data/bushido-zho-daleko-mp3.mp3?raw=true"
+    ],
     "portfolioItems": [
         {
             "name": "youtubeVideo",
