@@ -51,10 +51,16 @@
             ]
         }
     ],
+   {
     "socialLinks": {
         "instagram": "https://www.instagram.com/uroven.co",
         "telegram": "https://www.t.me/dinahoi"
     },
+    "musicTracks": [
+        "https://example.com/path/to/sound1.mp3",
+        "https://example.com/path/to/sound2.mp3"
+    ]
+   }
     "portfolioItems": [
         {
             "name": "youtubeVideo",
